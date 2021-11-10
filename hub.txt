@@ -1,0 +1,5 @@
+hub PCDH_viz
+shortLabel PCDH visualization
+longLabel PCDH visualization of methylation data
+genomesFile genomes.txt
+email lihua.huang@link.cuhk.edu.hk

@@ -1,0 +1,90 @@
+track CTRLvsMILD_DMRs
+bigDataUrl DMR.CTRLvsMILD.PCDH.maxdiff.bw
+shortLabel CTRLvsMILD DMRs
+longLabel CTRLvsMILD DMRs of PCDH family
+type bigWig
+
+track CTRLvsSEVERE_DMRs
+bigDataUrl DMR.CTRLvsSEVERE.PCDH.maxdiff.bw
+shortLabel CTRLvsSEVERE DMRs
+longLabel CTRLvsSEVERE DMRs of PCDH family
+type bigWig
+
+track CTRLvsSYMP_DMRs
+bigDataUrl DMR.CTRLvsSYMP.PCDH.maxdiff.bw
+shortLabel CTRLvsSYMP DMRs
+longLabel CTRLvsSYMP DMRs of PCDH family
+type bigWig
+
+track HETCTRLvsMILD_DMRs
+bigDataUrl DMR.HETCTRLvsMILD.PCDH.maxdiff.bw
+shortLabel HETCTRLvsMILD DMRs
+longLabel HETCTRLvsMILD DMRs of PCDH family
+type bigWig
+
+track HETCTRLvsSEVERE_DMRs
+bigDataUrl DMR.HETCTRLvsSEVERE.PCDH.maxdiff.bw
+shortLabel HETCTRLvsSEVERE DMRs
+longLabel HETCTRLvsSEVERE DMRs of PCDH family
+type bigWig
+
+track CTRLvsMILD_CpGs
+bigDataUrl cpg.CTRLvsMILD.bw
+shortLabel CTRLvsMILD CpGs
+longLabel CTRLvsMILD CpGs of PCDH family
+type bigWig
+
+track CTRLvsSEVERE_CpGs
+bigDataUrl cpg.CTRLvsSEVERE.bw
+shortLabel CTRLvsSEVERE CpGs
+longLabel CTRLvsSEVERE CpGs of PCDH family
+type bigWig
+
+track CTRLvsSYMP_CpGs
+bigDataUrl cpg.CTRLvsSYMP.bw
+shortLabel CTRLvsSYMP CpGs
+longLabel CTRLvsSYMP CpGs of PCDH family
+type bigWig
+
+track HETCTRLvsMILD_CpGs
+bigDataUrl cpg.HETCTRLvsMILD.bw
+shortLabel HETCTRLvsMILD CpGs
+longLabel HETCTRLvsMILD CpGs of PCDH family
+type bigWig
+
+track HETCTRLvsSEVERE_CpGs
+bigDataUrl cpg.HETCTRLvsSEVERE.bw
+shortLabel HETCTRLvsSEVERE CpGs
+longLabel HETCTRLvsSEVERE CpGs of PCDH family
+type bigWig
+
+track CTRLvsMILD_CpGs_sig
+bigDataUrl cpg.CTRLvsMILD.bb
+shortLabel CTRLvsMILD CpGs sig.
+longLabel CTRLvsMILD CpGs significance of PCDH family
+type bigBed
+
+track CTRLvsSEVERE_CpGs_sig
+bigDataUrl cpg.CTRLvsSEVERE.bb
+shortLabel CTRLvsSEVERE CpGs sig.
+longLabel CTRLvsSEVERE CpGs significance of PCDH family
+type bigBed
+
+track CTRLvsSYMP_CpGs_sig
+bigDataUrl cpg.CTRLvsSYMP.bb
+shortLabel CTRLvsSYMP CpGs sig.
+longLabel CTRLvsSYMP CpGs significance of PCDH family
+type bigBed
+
+track HETCTRLvsMILD_CpGs_sig
+bigDataUrl cpg.HETCTRLvsMILD.bb
+shortLabel HETCTRLvsMILD CpGs sig.
+longLabel HETCTRLvsMILD CpGs significance of PCDH family
+type bigBed
+
+track HETCTRLvsSEVERE_CpGs_sig
+bigDataUrl cpg.HETCTRLvsSEVERE.bb
+shortLabel HETCTRLvsSEVERE CpGs sig.
+longLabel HETCTRLvsSEVERE CpGs significance of PCDH family
+type bigBed
+
